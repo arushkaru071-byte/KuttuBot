@@ -60,7 +60,7 @@
 Read [this](https://telegram.dog/Sources_cods) before you start messing up with your edits.
 
 ### Required Variables
-* `BOT_TOKEN`: 7556904990:AAGOtFtOS0Q7c7p9w3_jhZ3lIgCLY4h8xsg
+* `BOT_TOKEN`: 7404094434:AAHCML3YrHe2e58gCFjGK8saPotHY1WMX-s
 * `API_ID`: 21383441
 * `API_HASH`: 62141d4cefa2756e4059cbdeac6ab46b
 * `CHANNELS`: 1002658908912
