@@ -27,7 +27,7 @@ class script(object):
 ⚠️ Pʟᴇᴀsᴇ ᴅᴏɴ’ᴛ sᴘᴀᴍ ᴛʜᴇ ʙᴏᴛ. 🙂
 """
     ABOUT_TXT = """<b>
-<blockquote>🤖 Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
+<blockquote>🤖 Nᴀᴍᴇ: ANGL™</blockquote>
 
 👨‍💻 Cʀᴇᴀᴛᴏʀ: <a href="https://t.me/laser_of_telegram">FAX888</a>  
 💬 Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3  
@@ -40,7 +40,7 @@ class script(object):
 🔗 <b>Source Code:</b> <a href="https://github.com/GouthamSER">Click Here 😂</a>
 
 <b>👨‍💻 DEVS:</b>  
-<blockquote><a href="https://t.me/wudixh12">Gᴏᴜᴛʜᴀᴍ Josh ✅</a></blockquote>
+<blockquote><a href="https://t.me/laser_of_telegram">Fax 008 ✅</a></blockquote>
 """
 
     MANUALFILTER_TXT = """<b>❓ Help: Filters</b>
@@ -144,7 +144,7 @@ This module only works for my admins.
 📦 Fɪʟᴇ Sɪᴢᴇ: 💾 <code>{file_size}</code>
 
 
-🔗 [⚡ Jᴏɪɴ Eʟᴅᴏʀᴀᴅᴏ ⚡](https://t.me/+53lB8qzQaGFlNDll)</b></blockquote>"""
+🔗 [⚡ Jᴏɪɴ Eʟᴅᴏʀᴀᴅᴏ ⚡](https://t.me/faxxbrohhmovies)</b></blockquote>"""
     
     RESTART_GC_TXT = """
 <b>🔄 𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽!</b>
@@ -193,7 +193,7 @@ Take a peek at the instructions below and let’s try again! 👇🏼
     OLD_MES = "Eᴅᴀᴀ Mᴏɴᴇʜ, 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬 🤔. 𝐏𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧."
 
     MOV_NT_FND = """<b>Eᴅᴀᴀ Mᴏɴᴇʜ, Tʜɪs Mᴏᴠɪᴇ ɪs Nᴏᴛ Yᴇᴛ Rᴇʟᴇᴀsᴇᴅ ᴏʀ Aᴅᴅᴇᴅ Tᴏ ᴅᴀᴛᴀʙᴀsᴇ.</b>
-<blockquote>Report To ADMIN - <a href="https://t.me/im_goutham_josh">@im_goutham_josh</a></blockquote>
+<blockquote>Report To ADMIN - <a href="https://t.me/laser_of_telegram">@laser_of_telegram</a></blockquote>
 """
 
     RESTART_TXT = """<b><u>𝖡𝗈𝗍 𝖱𝖾𝗌𝗍𝖺𝗋𝗍𝖾𝖽 ✅
