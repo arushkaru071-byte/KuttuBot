@@ -69,7 +69,7 @@ Read [this](https://telegram.dog/Sources_cods) before you start messing up with 
 * `DATABASE_NAME`: mongodb
 * `LOG_CHANNEL` : 1003082828281
 ### Optional Variables
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
+* `PICS`: https://files.catbox.moe/0tejdk.jpg
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/8769ANURAG/EvaMaria/blob/master/info.py) for more
 
